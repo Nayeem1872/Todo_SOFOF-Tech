@@ -191,9 +191,6 @@ cd backend
 
 Or use the Postman collection: `backend/postman-collection.json`
 
-## License
-
-MIT
 
 ## Author
 
